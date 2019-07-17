@@ -1,11 +1,11 @@
 # Site settings
 author: Lloyd Napier
-title: 
+title: One Strange Data Science Trip
 header-img: img/home-bg.png
 email: lloyd.a.napier@gmail.com
 copyright_name: Lloyd Napier
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Things can get surreal when you see the world through data.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lloyboybebop
